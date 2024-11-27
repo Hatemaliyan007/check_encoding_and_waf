@@ -1,0 +1,2 @@
+# check_encoding_and_waf
+check_encoding_and_waf
